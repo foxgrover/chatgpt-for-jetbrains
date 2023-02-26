@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.foxgrover.chatgptforjetbrains.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.foxgrover.chatgptforjetbrains.MyBundle
 
 class MyApplicationService {
 
